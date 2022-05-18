@@ -1,0 +1,28 @@
+Game	 	Result	Moves	Year	Event/Locale	Opening
+1. Aronian vs Robson	 	1-0	52	2022	American Cup Champ	A13 English
+2. So vs Sevian		0-1	36	2022	American Cup Champ	E48 Nimzo-Indian, 4.e3 O-O 5.Bd3 d5
+3. Caruana vs Xiong	 	½-½	49	2022	American Cup Champ	C42 Petrov Defense
+4. Dominguez Perez vs Shankland	 	½-½	32	2022	American Cup Champ	C53 Giuoco Piano
+5. Xiong vs Caruana	 	½-½	42	2022	American Cup Champ	A45 Queen's Pawn Game
+6. Caruana vs Xiong		1-0	61	2022	American Cup Champ	C10 French
+7. Dominguez Perez vs Shankland	 	1-0	59	2022	American Cup Champ	B90 Sicilian, Najdorf
+8. Robson vs Aronian	 	0-1	48	2022	American Cup Champ	A15 English
+9. Aronian vs Robson	 	½-½	74	2022	American Cup Champ	B50 Sicilian
+10. Shankland vs Dominguez Perez	 	½-½	52	2022	American Cup Champ	A30 English, Symmetrical
+11. Xiong vs Caruana	 	½-½	34	2022	American Cup Champ	A30 English, Symmetrical
+12. Caruana vs Xiong	 	½-½	53	2022	American Cup Champ	C10 French
+13. Shankland vs Dominguez Perez	 	½-½	44	2022	American Cup Champ	A33 English, Symmetrical
+14. Robson vs Aronian	 	1-0	73	2022	American Cup Champ	A15 English
+15. Sevian vs So	 	½-½	37	2022	American Cup Champ	D35 Queen's Gambit Declined
+16. So vs Xiong	 	1-0	38	2022	American Cup Champ	E60 King's Indian Defense
+17. Caruana vs Sevian	 	½-½	39	2022	American Cup Champ	E49 Nimzo-Indian, 4.e3, Botvinnik System
+18. Robson vs Shankland	 	1-0	53	2022	American Cup Champ	C67 Ruy Lopez
+19. Shankland vs Robson	 	½-½	53	2022	American Cup Champ	E10 Queen's Pawn Game
+20. Shankland vs Robson	 	1-0	50	2022	American Cup Champ	A20 English
+21. Aronian vs Dominguez Perez		0-1	28	2022	American Cup Champ	C42 Petrov Defense
+22. Robson vs Shankland	 	1-0	57	2022	American Cup Champ	C65 Ruy Lopez, Berlin Defense
+23. Robson vs Shankland	 	½-½	36	2022	American Cup Champ	C67 Ruy Lopez
+24. Xiong vs So	 	½-½	80	2022	American Cup Champ	C65 Ruy Lopez, Berlin Defense
+25. Dominguez Perez vs Aronian	 	½-½	59	2022	American Cup Champ	B12 Caro-Kann Defense
+ 
+ page 1 of 2; games 1-25 of 43 	PGN Download
